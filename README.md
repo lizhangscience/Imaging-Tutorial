@@ -29,10 +29,18 @@ T4 Gridding with a look-up table using the least-misfit gridding function.ipynb
 - Gridding using a look-up table with the least-misfit gridding function,
 - make a dirty map and a dirty beam,
 - compare the DFT and FFT dirty images,
-- nearest neighbour/bilinear interpolation. 
+- nearest neighbour/bilinear interpolation.
+
+### Tutorial 5
+
+T5 Gridding with a gridding function with an odd width.ipynb
+
+- Gridding process using the least-misfit gridding function, but with an odd width,
+- make a dirty map and a dirty beam,
+- compare the DFT and FFT dirty images.
 
 
-Many thanks to Feng Gao and Will Barker for their support. 
+Many thanks to Feng Gao and Will Barker for their support.
 
 ---
 Reference:
@@ -43,11 +51,8 @@ https://github.com/SzeMengTan/OptimalGridding/tree/3d3a1f5a15d4f70bcb89aa94f8cb5
 -  "Optimal gridding and degridding in radio interferometry imaging" by Haoyang Ye, Stephen F. Gull, Sze M. Tan and Bojan Nikolic, accepted by the Monthly Notices of the Royal Astronomical Society. https://arxiv.org/abs/1906.07102  
 
 ---
-:tea: Haoyang Ye 
+:tea: Haoyang Ye
 
 Email: haoyang.ye@cantab.net
 
-Website: www.haoyangye.com/Home 
-  
-
-
+Website: www.haoyangye.com/Home
